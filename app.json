@@ -31,6 +31,9 @@
       "eas": {
         "projectId": "625918b4-21ee-46b9-920a-348c91f6b987"
       }
+    },
+    "experiments": {
+      "baseUrl": "/react-native-fastfood-deploy"
     }
   }
 }
